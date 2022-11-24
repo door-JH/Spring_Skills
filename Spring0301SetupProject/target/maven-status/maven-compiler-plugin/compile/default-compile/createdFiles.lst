@@ -1,0 +1,4 @@
+info/example/config/RootAppContext.class
+info/example/controller/HomeController.class
+info/example/config/ServletAppContext.class
+info/example/config/SpringConfigClass.class
